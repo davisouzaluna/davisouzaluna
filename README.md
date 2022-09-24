@@ -8,9 +8,9 @@
  </div>
  
  
- # More about
+ # More about me
  
- ^_^ Hi, I’m @davifurao or Davi Luna.the first name is what I use in games and the second is my pessoal name.
+ :smiley: Hi, I’m @davifurao or Davi Luna.the first name is what I use in games and the second is my pessoal name.
 
 
    I’m interested in learn as many interesting things as possible.
@@ -18,8 +18,10 @@
    I’m currently learning Javascript, SQL, PHP, JAVA and some python.But that's just the beginning. I'm in college(I study in IFPE-Igarassu)
    
    I'm learn too about Laravel, Svelte and Vue
+   
+   I really like the computer network theme 
 
-   I'm looking to collaborate on any code that I have expertise (even though I'm at the beginning of the course  :v)
+   I'm looking to Learn more about newest concepts and tecnologies :sunglasses:
   
   # Contacts:
    
