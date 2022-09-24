@@ -3,8 +3,8 @@
  
  <div>
  <a href="https://github.com/davifurao">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&layout=compact&langs_count=7&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifurao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davifurao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
  
  
@@ -15,12 +15,20 @@
 
    I’m interested in learn as many interesting things as possible.
 
-   I’m currently learning Javascript, HTML and CSS.But that's just the beginning. I'm in the first period of college
+   I’m currently learning Javascript, SQL, PHP, JAVA and some python.But that's just the beginning. I'm in college(I study in IFPE-Igarassu)
+   
+   I'm learn too about Laravel, Svelte and Vue
 
-   I'm looking to collaborate on any code that I have expertise (even though I'm at the beginning of the course  :v).
+   I'm looking to collaborate on any code that I have expertise (even though I'm at the beginning of the course  :v)
   
-  
-   How to contact me: You can try instagram(@sdavi738) or Gmail(Sdavi738@gmail.com).
+  # Contacts:
+   
+   
+  <div>
+  <a href="https://www.instagram.com/sdavi738/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: Sdavi738@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-luna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </div>
 
 <!---
 davifurao/davifurao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
