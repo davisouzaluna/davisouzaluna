@@ -1,6 +1,15 @@
  
  # Who am I ?
  
+ <div>
+ <a href="https://github.com/davifurao">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifurao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </div>
+ 
+ 
+ # More about
+ 
  ^_^ Hi, I’m @davifurao or Davi Luna.the first name is what I use in games and the second is my pessoal name.
 
 
