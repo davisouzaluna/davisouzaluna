@@ -17,7 +17,7 @@
 
    I’m currently learning Javascript, SQL, PHP, JAVA and some python.But that's just the beginning. I'm in college(I study in IFPE-Igarassu)
    
-   I'm learn too about Laravel, Svelte and Vue
+   I'm learn too about Laravel and Svelte 
    
    I really like the computer network theme 
 
