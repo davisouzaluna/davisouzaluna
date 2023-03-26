@@ -24,7 +24,7 @@
   
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davifurao&theme=merko&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&theme=algolia&show_icons=true&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&theme=algolia&show_icons=true&hide=blade,vue,php)](https://github.com/anuraghazra/github-readme-stats)
   
  
   <h1 align="center">📬 Contatos 📞</h1>
