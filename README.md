@@ -3,11 +3,12 @@
  
  <h1 align='center'> 🤙Fala meu consagrado 🙂</h1>
  
- <p>:smiley:Meu nome é @davifurao ou Davi Luna(nome pessoal). O davifurao vem do meu nick dos jogos</p>
+ <p align = "center">:smiley:Meu nome é Davi Luna. 😃</p>
 <br/>
- <p>📖 Atualmente sou estudante de Sistemas para Internet no IFPE de Igarassu:sunglasses:</p>
- 
-  ## 💻✍️Linguagens:
+ <p align="center">📖 Atualmente sou estudante de Sistemas para Internet no IFPE de Igarassu 😎 </p>
+
+ <p align = "center">☕ Tem diversos projetos legais por aqui, divirta-se. Também estou à disposição para contribuir 😎</p></br>
+  <h1 align="center"> 💻✍️Linguagens: </h1>
   <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -21,11 +22,11 @@
   
   ## 🔥 Meus status:
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davifurao&theme=tokyonight&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisouzaluna&theme=tokyonight&show_icons=true)
   
   
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifurao&theme=algolia&show_icons=true&hide=blade,vue,php)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisouzaluna&theme=algolia&show_icons=true&hide=blade,vue,php)](https://github.com/anuraghazra/github-readme-stats)
   
  
   <h1 align="center">📬 Contatos 📞</h1>
