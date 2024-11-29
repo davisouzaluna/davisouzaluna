@@ -8,25 +8,11 @@
  <p align="center">📖 Atualmente sou estudante de Sistemas para Internet no IFPE de Igarassu 😎 </p>
 
  <p align = "center">☕ Tem diversos projetos legais por aqui, divirta-se. Também estou à disposição para contribuir 😎</p></br>
-  <h1 align="center"> 💻✍️Linguagens: </h1>
-  <div align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" width="40" height="40"/>&nbsp;
-</div>
   
-  ## 🔥 Meus status:
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisouzaluna&theme=tokyonight&show_icons=true)
-  
-  
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisouzaluna&theme=algolia&show_icons=true&hide=blade,vue,php)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+   <a href="https://wakatime.com/@13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9"><img src="https://wakatime.com/badge/user/13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9.svg" alt="Total time coded since Nov 29 2024" /></a>
+  </div>
+  <br>
   
  
   <h1 align="center">📬 Contatos 📞</h1>
@@ -39,10 +25,4 @@
   <a href="https://www.linkedin.com/in/davi-luna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
 
-<!---
-davifurao/davifurao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
---Um easter egg hehe--
-Agora em português meu consagrado. Se você está lendo isso é porque você está observando o código fonte. Pode ficar a vontade :) eu fiz pra caramba isso(é necessário para o programador observar para aprender).
---->
