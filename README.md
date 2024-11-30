@@ -8,16 +8,14 @@
  <p align="center">📖 Atualmente sou estudante de Sistemas para Internet no IFPE de Igarassu 😎 </p>
 
  <p align = "center">☕ Tem diversos projetos legais por aqui, divirta-se. Também estou à disposição para contribuir 😎</p></br>
-  
-  <div align="center">
-   <a href="https://wakatime.com/@13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9"><img src="https://wakatime.com/badge/user/13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9.svg" alt="Total time coded since Nov 29 2024" /></a>
-  </div>
+
   <br>
   
  
   <h1 align="center">📬 Contatos 📞</h1>
    
- 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
    
   <div align="center">
   <a href="https://www.instagram.com/sdavi738/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
