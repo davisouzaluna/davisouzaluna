@@ -17,7 +17,7 @@ C   9 mins          ████████████████████
 ```
 
 <!--END_SECTION:waka-->
-   
+ [![wakatime](https://wakatime.com/badge/user/13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9.svg)](https://wakatime.com/@13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9)
  
   <h1 align="center">📬 Contatos 📞</h1>
    
