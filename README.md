@@ -15,7 +15,12 @@
   <h1 align="center">📬 Contatos 📞</h1>
    
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+C   9 mins          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
    
   <div align="center">
   <a href="https://www.instagram.com/sdavi738/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
