@@ -13,7 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C       2 hrs 10 mins   ████████████████▒░░░░░░░░   65.08 %
+Other   39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+CMake   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
 ```
 
 <!--END_SECTION:waka-->
