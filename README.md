@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          23 mins         █████████████▓░░░░░░░░░░░   55.31 %
-Other      14 mins         ████████▒░░░░░░░░░░░░░░░░   33.61 %
-CMake      4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
