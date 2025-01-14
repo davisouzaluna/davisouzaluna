@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other         42 mins         ███████████████░░░░░░░░░░   60.56 %
+Docker        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
+YAML          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+C             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
