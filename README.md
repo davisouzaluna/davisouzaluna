@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                          2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 %
-Vue.js                     1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-YAML                       1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-Nginx configuration file   34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-JavaScript                 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+C                          3 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+YAML                       1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Nginx configuration file   1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Docker                     1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Vue.js                     1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
 ```
 
 <!--END_SECTION:waka-->
