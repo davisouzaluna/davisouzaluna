@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          █████████████▒░░░░░░░░░░░   53.80 %
-TSConfig     1 min           ████████▓░░░░░░░░░░░░░░░░   35.10 %
-JSON         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
