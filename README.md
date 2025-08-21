@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          59 mins         ██████████████████▓░░░░░░   74.99 %
-Markdown     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-CSS          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
