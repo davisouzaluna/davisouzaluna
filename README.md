@@ -1,13 +1,8 @@
+<h1 align='center'> 🤙What’s up, my friend 🙂</h1>
  
+<p align="center">:smiley:My name is Davi Luna. 😃</p>
 
- 
- <h1 align='center'> 🤙Fala meu consagrado 🙂</h1>
- 
- <p align = "center">:smiley:Meu nome é Davi Luna. 😃</p>
-<br/>
- <p align="center">📖 Atualmente sou estudante de Sistemas para Internet no IFPE de Igarassu 😎 </p>
-
- <p align = "center">☕ Tem diversos projetos legais por aqui, divirta-se. Também estou à disposição para contribuir 😎</p></br>
+<p align="center">☕ You’ll find several cool projects around here, have fun exploring. I’m also open to contributing 😎</p></br>
 
   <br>
 <!--START_SECTION:waka-->
@@ -19,7 +14,7 @@ No activity tracked
 <!--END_SECTION:waka-->
  [![wakatime](https://wakatime.com/badge/user/13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9.svg)](https://wakatime.com/@13fc2f27-8441-4b3a-9ee3-5b6e9fe541a9)
  
-  <h1 align="center">📬 Contatos 📞</h1>
+  <h1 align="center">📬 Contact Me 📞</h1>
    
 
   <div align="center">
