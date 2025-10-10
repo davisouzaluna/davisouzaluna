@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         7 mins          ███████████████░░░░░░░░░░   59.48 %
-JSON         2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-HTML         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
