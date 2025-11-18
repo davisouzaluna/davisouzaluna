@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++        10 mins         █████████████░░░░░░░░░░░░   51.79 %
-HTML       5 mins          ███████░░░░░░░░░░░░░░░░░░   28.39 %
-Markdown   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Text       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
