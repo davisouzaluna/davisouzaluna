@@ -8,7 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 mins          █████████████████████████   100.00 %
+JavaScript   5 mins          ████████████████████░░░░░   80.15 %
+HTML         1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
