@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CMake    6 mins                █████████████████▓░░░░░░░   70.88 %
-Python   1 min                 ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-C        1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
