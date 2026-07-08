@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      36 mins               █████████████░░░░░░░░░░░░   51.68 %
-Python        34 mins               ████████████░░░░░░░░░░░░░   47.99 %
-Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown      20 mins               ██████████████▓░░░░░░░░░░   58.84 %
+Python        14 mins               ██████████░░░░░░░░░░░░░░░   40.51 %
+Objective-C   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
